@@ -12,3 +12,5 @@ This project is about building a recommendation system based on the information 
 <p>7)Strong relationships?<br />Yes we also have this, but it is in question</p>
 <p>&nbsp;</p>
 <p>Our dataset:</p>
+
+
