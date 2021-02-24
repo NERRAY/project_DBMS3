@@ -13,5 +13,6 @@ This project is about building a recommendation system based on the information 
 <p>&nbsp;</p>
 <p>Our dataset:</p>
 <p>https://www.kaggle.com/ruchi798/bookcrossing-dataset</p>
+<p>https://www.kaggle.com/arashnic/book-recommendation-dataset</p>
 
 
