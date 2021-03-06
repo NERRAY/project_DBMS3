@@ -91,3 +91,6 @@ This project is about building a recommendation system based on the information 
 <li>The entity User binded with Books by many-to-many relationships because many users can have many books sush as many books haave many users. The entity User have one-to-one relationship with Login ,where which user have only unique login , for each book it have one-to-many relations to ratings. Location have one -to-many relationships for user. Book Recommend connecting with Rating by primary key.</li>
 <li>&nbsp;All below entities are normalized and reduce duplicacy of records</li>
 </ul>
+
+<h2>**DDL queries**</h2>
+<p>&nbsp;After configuring MySQL, we decided&nbsp; to integrate everything into VSCode for convenience.&nbsp; To make it much easier to write queries in the future. For verification the tables were successfully displayed.</p>
