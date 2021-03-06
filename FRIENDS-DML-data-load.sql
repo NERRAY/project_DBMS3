@@ -6,29 +6,29 @@
 
  .mode csv user
  .separator ,
- .import books.csv user
+ .import user.csv user
 
 
 
  .mode csv location
  .separator ,
- .import books.csv location
+ .import location.csv location
 
 
 
  .mode csv rating
  .separator ,
- .import books.csv rating
+ .import rating.csv rating
 
 
  .mode csv login
  .separator ,
- .import books.csv login
+ .import login.csv login
 
 
 
  .mode csv book_rec
  .separator ,
- .import books.csv book_rec
+ .import book_rec.csv book_rec
 
 
