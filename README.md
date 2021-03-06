@@ -102,3 +102,6 @@ This project is about building a recommendation system based on the information 
 <pre>  .mode csv books<br />  .separator ,<br />  .import books.csv books<br /><br /><br /></pre>
 </div>
 <p>&nbsp;Be sure to run each operation in the following order, which we specified in the file, otherwise an error will occur.</p>
+
+
+
