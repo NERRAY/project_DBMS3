@@ -92,5 +92,5 @@ This project is about building a recommendation system based on the information 
 <li>&nbsp;All below entities are normalized and reduce duplicacy of records</li>
 </ul>
 
-<h2>**DDL queries**</h2>
+<h2>DDL queries</h2>
 <p>&nbsp;After configuring MySQL, we decided&nbsp; to integrate everything into VSCode for convenience.&nbsp; To make it much easier to write queries in the future. For verification the tables were successfully displayed.</p>
