@@ -94,3 +94,11 @@ This project is about building a recommendation system based on the information 
 
 <h2>DDL queries</h2>
 <p>&nbsp;After configuring MySQL, we decided&nbsp; to integrate everything into VSCode for convenience.&nbsp; To make it much easier to write queries in the future. For verification the tables were successfully displayed.</p>
+
+<p>&nbsp;</p>
+<h2>DML queries</h2>
+<p>To add 100k data, it would be impossible to use the&nbsp;<code>INSERT</code>&nbsp;function, as it would take a very long time to write and add. Also, can't upload it via phpMyAdmin, because it exceeded the limit. To add data to the tables that we created, we decided to use a cmd:</p>
+<div class="highlight highlight-source-shell">
+<pre>  .mode csv books<br />  .separator ,<br />  .import books.csv books<br /><br /><br /></pre>
+</div>
+<p>&nbsp;Be sure to run each operation in the following order, which we specified in the file, otherwise an error will occur.</p>
