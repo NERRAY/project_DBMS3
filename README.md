@@ -79,4 +79,15 @@ This project is about building a recommendation system based on the information 
 </ul>
 </li>
 
-
+<p><span style="text-decoration: underline;"><strong>Phase 3 DBMS3</strong></span></p>
+<h1>Data modeling and database design</h1>
+<h2><a id="user-content-er-diagram" class="anchor" href="https://github.com/s3rikbaeva/Activ-monitoring/blob/main/README.md#er-diagram" aria-hidden="true"></a>ER diagram</h2>
+<p>We a decided to implement diagrams in&nbsp;<code>class type</code>.</p>
+<p>The ER (Entity Relationship) Diagram represents the model of <strong>Library Management System Entity. </strong>The entity-relationship diagram of Library Management System shows all the visual instrument of database tables and the relations between Users, Books, Rating, Login, Recomendations, Locations. It used structure data and to define the relationships between structured data groups of Library Managment System functionalities.</p>
+<p>Description of LMSD(Library Management System Database):</p>
+<ul>
+<li>&nbsp;The details of Books is store into the Books tables respective with all tables</li>
+<li>Each entity (Users, Books, Rating, Login, Recomendations of book, Locations) contains primary key</li>
+<li>The entity User binded with Books by many-to-many relationships because many users can have many books sush as many books haave many users. The entity User have one-to-one relationship with Login ,where which user have only unique login , for each book it have one-to-many relations to ratings. Location have one -to-many relationships for user. Book Recommend connecting with Rating by primary key.</li>
+<li>&nbsp;All below entities are normalized and reduce duplicacy of records</li>
+</ul>
