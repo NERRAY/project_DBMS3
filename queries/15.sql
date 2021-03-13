@@ -1,2 +1,0 @@
---Write a query to display book code, book name, and publisher, how old the book is. Sorted as older to newer.
-select BOOK_CODE,BOOK_TITLE,PUBLICATION,YEAR(GETDATE())-YEAR(DATE_ARRIVAL)as YEARS from LMS_BOOK_DETAILS order by YEARS desc
