@@ -182,5 +182,5 @@ This project is about building a recommendation system based on the information 
   <p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/62704766/112896229-91a89b00-90f7-11eb-9cb7-68b444f7fc20.png"><img src="https://user-images.githubusercontent.com/62704766/112896229-91a89b00-90f7-11eb-9cb7-68b444f7fc20.png" alt="conn" style="max-width:100%;"></a></p>
     <p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/62704766/112896093-69b93780-90f7-11eb-9731-233e07307867.png"><img src="https://user-images.githubusercontent.com/62704766/112896093-69b93780-90f7-11eb-9731-233e07307867.png" alt="conn" style="max-width:100%;"></a></p>
 </details>
-
+<p>The source code has been added, but this is not full project, some works must be ended</p>
 </details>
