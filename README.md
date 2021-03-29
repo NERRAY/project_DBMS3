@@ -147,8 +147,14 @@ This project is about building a recommendation system based on the information 
 <p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/62704766/112883850-36bb7780-90e8-11eb-8bb7-af705af074ff.png"><img src="https://user-images.githubusercontent.com/62704766/112883850-36bb7780-90e8-11eb-8bb7-af705af074ff.png" alt="conn" style="max-width:100%;"></a></p></details>
 <a id="user-conent-uml" class="anchor" aria-hidden="true" href="#uml"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><strong>functions that will trigger corresponding SQL queries to retrieve the necessary data</strong>
 <details>
-
-<p></p>
+<p>First function is when you register to a library management system, and after registering the database will have info about new user</p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/62704766/112889777-85204480-90ef-11eb-9526-dd7d483f76e9.png"><img src="https://user-images.githubusercontent.com/62704766/112889777-85204480-90ef-11eb-9526-dd7d483f76e9.png" alt="conn" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/62704766/112889814-949f8d80-90ef-11eb-9af3-3bf42cd761d1.png"><img src="https://user-images.githubusercontent.com/62704766/112889814-949f8d80-90ef-11eb-9af3-3bf42cd761d1.png" alt="conn" style="max-width:100%;"></a></p>
+  <p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/62704766/112889857-9ff2b900-90ef-11eb-8443-29a4ae400d4f.png"><img src="https://user-images.githubusercontent.com/62704766/112889857-9ff2b900-90ef-11eb-8443-29a4ae400d4f.png" alt="conn" style="max-width:100%;"></a></p>
+  
+  <p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/62704766/112889892-aaad4e00-90ef-11eb-8f6f-2fcd4504ecb1.png"><img src="https://user-images.githubusercontent.com/62704766/112889892-aaad4e00-90ef-11eb-8f6f-2fcd4504ecb1.png" alt="conn" style="max-width:100%;"></a></p>
+  <p>So by photos you can see that registration has passed successfully</p>
+  
 </details>
 <a id="user-conent-uml" class="anchor" aria-hidden="true" href="#uml"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><strong>Display (or vizualize) the retrieved data to the users (or clients)</strong>
 <details>
