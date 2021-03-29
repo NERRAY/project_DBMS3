@@ -90,7 +90,7 @@ This project is about building a recommendation system based on the information 
 <p>Image is available in <a href="https://github.com/NERRAY/project_DBMS3/blob/main/FRIENDS-UseCase-UML.png">UseCase</a> image.</p>
 </details>
 
-<h4><a id="user-content-phase-4--Data modeling and database design" class="anchor" aria-hidden="true" href="#phase-4-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Phase 4 :  Data modeling and database design
+<h4><a id="user-content-phase-4--Data modeling and database design" class="anchor" aria-hidden="true" href="#phase-4-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Phase 4 :  Data modeling and database design</h4>
 <details>
 <p>We a decided to implement diagrams in&nbsp;<code>class type</code>.</p>
 <p>The ER (Entity Relationship) Diagram represents the model of <strong>Library Management System Entity. </strong>The entity-relationship diagram of Library Management System shows all the visual instrument of database tables and the relations between Users, Books, Rating, Login, Recomendations, Locations. It used structure data and to define the relationships between structured data groups of Library Managment System functionalities.</p>
@@ -112,7 +112,7 @@ This project is about building a recommendation system based on the information 
 <pre>  .mode csv books<br />  .separator ,<br />  .import books.csv books<br /><br /><br /></pre>
 </div>
 <p>&nbsp;Be sure to run each operation in the following order, which we specified in the file, otherwise an error will occur.</p>
-</details> >/h4>
+</details> >
 <h2>Phase 6</h2>
   <p>
 Student can register yourself and after registration they will get studentid
