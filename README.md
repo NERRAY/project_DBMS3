@@ -135,12 +135,12 @@ This project is about building a recommendation system based on the information 
   
  <summary>user-interface</summary>
   <p> As we have planned, we are using PHP and MYSQL with Jupyter Notebook as backend. We are also using CSS and HTML, Bootstrap, Javascript as instruments for creating web frontend.</p></details>
-  
+  <summary>connection with the created database</summary><details>
 Student can register yourself and after registration they will get studentid
 After login student can view own dashboard.
 Student can update own profile.
 Student can view issued book and book return date-time.
 Student can also change own password.
 Student can also recover own password.
-  
+  </details>
 </details>
