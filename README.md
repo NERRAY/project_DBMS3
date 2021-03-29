@@ -134,6 +134,8 @@ This project is about building a recommendation system based on the information 
 <details><summary>read more</summary>
 
   <p>
+  <strong>user-interface</strong>
+  * We are planning to use python for connecting with SQLite database and PHP as backend. We are going to do web application, so that we we will use CSS and HTML as instruments for creating web frontend.
 Student can register yourself and after registration they will get studentid
 After login student can view own dashboard.
 Student can update own profile.
