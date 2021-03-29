@@ -104,4 +104,11 @@ This project is about building a recommendation system based on the information 
 <p>&nbsp;Be sure to run each operation in the following order, which we specified in the file, otherwise an error will occur.</p>
 
 
-
+<h2>Phase 6></h2>
+  <p>Student can register yourself and after registration they will get studentid
+After login student can view own dashboard.
+ Student can update own profile.
+Student can view issued book and book return date-time.
+Student can also change own password.
+Student can also recover own password.
+  </p>
