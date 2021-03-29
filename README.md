@@ -105,5 +105,11 @@ This project is about building a recommendation system based on the information 
 
 
 <h2>Phase 6</h2>
-  <p>About this project is about building a comfortable wep application with PHP and MYSQL which is a Library Management System with book recommnendation based on Machine Learning algorithms. Languages-html, css, bootstrap, javascript, jupyter notebook, php, mysql.
+  <p>
+Student can register yourself and after registration they will get studentid
+After login student can view own dashboard.
+Student can update own profile.
+Student can view issued book and book return date-time.
+Student can also change own password.
+Student can also recover own password.
   </p>
