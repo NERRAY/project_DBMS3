@@ -1,0 +1,13 @@
+--1
+select COUNT(*) 
+from LMS_BOOK_DETAILS 
+where AUTHOR='Herbert Schildt' and BOOK_EDITION='5' and SUPPLIER_ID='S01';
+--2
+
+select COUNT(*) 
+join LMS_MEMBERS t2 on t1.MEMBER_ID=t2.MEMBER_ID 
+where t1.DATE_RETURN>=t1.DATE_RETURNED and 
+YEAR(t1.DATE_RETURNED)=2012
+|T’| ≈ (1,500 * 15,000 * 60,175) / (15,000 * 1,500) = 60,175 tuples
+
+TIME FOR testQuery: 0.15138936042785645 seconds
