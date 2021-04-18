@@ -1,0 +1,13 @@
+
+select user_ID,(select user_NAME from LMS_MEMBERS where MEMBER_ID=t1.MEMBER_ID )as MEMBER_NAME,BOOK_CODE,(select BOOK_TITLE from LMS_BOOK_DETAILS where BOOK_CODE=t1.BOOK_CODE)as BOOK_TITLE from LMS_BOOK_ISSUE t1;
+
+Average speed perfomance:
+
+(7.003 + 3.718 + 7.049 + 4.940 + 5.514) / 5 = 5.6448 ms
+Optimized query:
+
+select user_ID,(select user_NAME from LMS_MEMBERS where MEMBER_ID=t1.MEMBER_ID )as MEMBER_NAME,BOOK_CODE,(select BOOK_TITLE from LMS_BOOK_DETAILS where BOOK_CODE=t1.BOOK_CODE)as BOOK_TITLE from LMS_BOOK_ISSUE t1;
+
+Optimized query's speed perfomance:
+
+3.523 ms
