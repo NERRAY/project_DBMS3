@@ -195,4 +195,31 @@ This project is about building a recommendation system based on the information 
   <p>5.png is for 8.sql<br>6.png is for 9.sql<br>7.png is for 10.sql</p>
 
 </details>
+
+<h2><a id="user-content-phase-8-- SQL queries" class="anchor" aria-hidden="true" href="#phase-8-- SQL queries"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Phase 8: Calculating true cardinalities and plan evaluation </h2>
+<details>
+  <summary>read more</summary>
+<p>calculations of true cardinalities are available in <a href="https://github.com/NERRAY/project_DBMS3/tree/main/phase_7">phase8</a> folder.</p>
+
+</details>
+
+<h2><a id="user-content-phase-9-- SQL queries" class="anchor" aria-hidden="true" href="#phase-9-- SQL queries"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Phase 9: Speed performance evaluation </h2>
+<details>
+  <summary>read more</summary>
+<p>speed performance evaluations are available in <a href="https://github.com/NERRAY/project_DBMS3/tree/main/9-phase">phase9</a> folder.</p>
+
+</details>
+
+<h2><a id="user-content-phase-10-- SQL queries" class="anchor" aria-hidden="true" href="#phase-10-- SQL queries"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Phase 10: Presentation and Demo  </h2>
+<details>
+  <summary>read more</summary>
+<p>presentation</p>
+  <p>demo of project</p>
+
+</details>
+
+
+
+
+
   
