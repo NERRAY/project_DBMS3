@@ -192,7 +192,7 @@ This project is about building a recommendation system based on the information 
 <p>4 RA_operators are available in <a href="https://github.com/NERRAY/project_DBMS3/tree/main/RA_expressions">RA_expressions</a> folder.</p>
   <p>1.png is for 10.sql<br>2.png is for 11.sql<br>3.png is for 13.sql<br>4.png is for 15.sql</p>
   <p>3 RA_operators that were created not on the mustdate are also available in <a href="https://github.com/NERRAY/project_DBMS3/tree/main/RA_expressions">RA_expressions</a> folder.</p>
-  <p>5.png is for 8.sql<br>6.png is for 9.sql<br>7.png is for 10.sql</p>
+  <p>5.png is for 8.sql<br>6.png is for 9.sql<br>7.png is for 12.sql</p>
 
 </details>
 
